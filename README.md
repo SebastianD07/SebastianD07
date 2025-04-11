@@ -5,7 +5,7 @@
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block">Hi 👋, I'm Sebastian </h1></summary>
+    <summary><h1>Hi 👋, I'm Sebastian </h1></summary>
   </ul>
 </div>
 
@@ -69,7 +69,7 @@
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
+    <summary><h2>Technologies That I Know👨🏻‍💻</h2></summary>
   </ul>
 </div>
 <!--tech stack icons-->
@@ -81,7 +81,7 @@
 
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">"If You Can Imagine It You Can Program It 🧠"</h2></summary>
+    <summary><h2>"If You Can Imagine It You Can Program It 🧠"</h2></summary>
   </ul>
 </div>
 
